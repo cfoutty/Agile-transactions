@@ -1,0 +1,8 @@
+E:\Source\Personal\TestXDocument\TestXDocument\bin\Debug\TestXDocument.exe.config
+E:\Source\Personal\TestXDocument\TestXDocument\bin\Debug\TestXDocument.exe
+E:\Source\Personal\TestXDocument\TestXDocument\bin\Debug\TestXDocument.pdb
+E:\Source\Personal\TestXDocument\TestXDocument\obj\Debug\TestXDocument.exe
+E:\Source\Personal\TestXDocument\TestXDocument\obj\Debug\TestXDocument.pdb
+E:\Source\Personal\TestXDocument\TestXDocument\obj\Debug\TestXDocument.csprojResolveAssemblyReference.cache
+E:\Source\Personal\TestXDocument\TestXDocument\bin\Debug\Newtonsoft.Json.dll
+E:\Source\Personal\TestXDocument\TestXDocument\bin\Debug\Newtonsoft.Json.xml
